@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 18
-  productGUID: 00000000000000000000000000000000
+  productGUID: f3b028d04f4ef2c409dc376ffc74b087
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -45,7 +45,7 @@ PlayerSettings:
   defaultScreenWidth: 960
   defaultScreenHeight: 540
   defaultScreenWidthWeb: 960
-  defaultScreenHeightWeb: 540
+  defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
   m_ActiveColorSpace: 0
   m_MTRendering: 1
